@@ -1,7 +1,7 @@
 import { Button, Dialog,DialogDescription, DialogHeader,DialogTitle, DialogTrigger, } from "@/components/ui";
 
  const home = () => {
-  return (
+  return ( 
     <div>
       <DialogTrigger>
       <Button>登录</Button>
