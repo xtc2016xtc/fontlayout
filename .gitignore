@@ -91,3 +91,9 @@ next-env.d.ts
 /.next-build/dev/server/server-reference-manifest.json
 /.build/dev/types/validator.ts
 /.idea/vcs.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/fontlayout.iml
+/.idea/modules.xml
+/.idea/prettier.xml
+/.idea/codeStyles/Project.xml
+/.idea/inspectionProfiles/Project_Default.xml
