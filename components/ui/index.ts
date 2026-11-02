@@ -75,3 +75,13 @@ export { CharacterPicker } from "@/components/character-picker"
           └── 紫色柱：下周预测值（线性外推）
 */
 export { KeyForecastChart } from "@/components/key-forecast-chart"
+
+/*
+  AI 助手悬浮球（可拖拽）
+      ├── 悬浮球（紫色渐变圆形按钮，拖拽到屏幕任意位置）
+      └── 聊天面板（点击展开）
+          ├── 标题栏（AI 助手 + 关闭）
+          ├── 消息列表（用户问题 + AI 模拟回答）
+          └── 输入框 + 发送按钮
+*/
+export { AiAssistant } from "@/components/ai-assistant"
